@@ -1,0 +1,3 @@
+﻿  dz_2.cpp
+C:\Users\Microsoft\source\repos\dz_2\dz_2\dz_2.cpp(10,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  dz_2.vcxproj -> C:\Users\Microsoft\source\repos\dz_2\x64\Debug\dz_2.exe
